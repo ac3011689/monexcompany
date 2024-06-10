@@ -1,0 +1,1 @@
+if(console){var cookiedomainwarning='Error: The domain SINTAC.ES is not authorized to show the cookie banner for domain group ID 4ce6f6f0-4f3d-4e84-8d23-7b35b4ae55f4. Please add it to the domain group in the Cookiebot Manager to authorize the domain.';if(typeof console.warn === 'function'){console.warn(cookiedomainwarning)}else{console.log(cookiedomainwarning)}};
